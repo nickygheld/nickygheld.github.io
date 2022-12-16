@@ -1,0 +1,36 @@
+body {
+  margin: 10%;
+}
+
+article {
+  margin-left: 10%;
+  width: 60%;
+}
+
+h1 {
+  font-size: 43px; margin-left: 60px;
+}
+
+.story_image {
+  width: 100%;
+}
+
+footer {
+  margin-top: 30px;
+  font-family: Basier, Arial, sans-serif;
+}
+
+a {
+  color: black;
+}
+
+a:hover {
+  color: #717171;
+  text-decoration-color: #ffcb04;
+}
+.site_banner{ padding: 2px;
+	
+}
+h4 {text-align: center;}
+
+story header {text-align: center;}
